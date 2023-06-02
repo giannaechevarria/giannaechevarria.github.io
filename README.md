@@ -1,2 +1,0 @@
-# giannaechevarria.github.io
-website
