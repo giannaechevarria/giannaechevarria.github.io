@@ -42,6 +42,10 @@ a:hover {
     color: sandyBrown;
 }
 
+a:link {
+    color: white;
+} 
+
 thead {
     background-color: saddleBrown;
 }
