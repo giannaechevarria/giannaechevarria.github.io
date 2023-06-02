@@ -1,0 +1,57 @@
+body {
+        background-color: SaddleBrown;
+        font-family: Courier New;
+}
+
+#title {
+    color: sandyBrown;
+    text-align: center;
+    border-top: 5px dashed SandyBrown;
+    border-bottom: 5px dashed SandyBrown;
+    line-height: .5em;
+    margin-bottom: 10px;
+    font-family: Garamond, serif;
+}
+
+table{
+    background-color: SandyBrown;
+    width: 100%;
+    color: SaddleBrown;
+    text-align: center;
+}
+
+thead {
+    font-weight: bold;
+}
+
+td{
+    width:20%;
+    border: 3px solid SaddleBrown;
+    font-size: 15px;
+}
+
+img {
+    width: 90%;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: sandyBrown;
+}
+
+thead {
+    background-color: saddleBrown;
+}
+
+#footer {
+    color: sandyBrown;
+    text-align: center;
+    border-top: 5px dashed SandyBrown;
+    border-bottom: 5px dashed SandyBrown;
+    line-height: .5em;
+    margin-top: 10px;
+    font-family: Garamond, serif;
+}
